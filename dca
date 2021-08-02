@@ -1,0 +1,29 @@
+[33mcommit 40bf5043c7d793f76df2f23d90f51a1f52088ac6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Mon Aug 2 15:05:36 2021 -0400
+
+    se agrega todo lo restante del proyecto completo
+
+[33mcommit 4bd48ecd678a3015bdba7376f5067cbaf0148cde[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Mon Aug 2 15:04:55 2021 -0400
+
+    se agrega index
+
+[33mcommit 011a2e6453744a38dc32a1ed93e8ac91029fb06e[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Mon Aug 2 15:04:26 2021 -0400
+
+    se agrega carpeta js
+
+[33mcommit 63bc4a75ac7ad61da6eaa751867045de4e619889[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Mon Aug 2 15:04:00 2021 -0400
+
+    se agregan fonts
+
+[33mcommit d2dd7a6cc898309bcfe1ee98badc7194cf0983bf[m
+Author: Joao Leiva <joao.leiva@externos.bci.cl>
+Date:   Mon Aug 2 15:03:22 2021 -0400
+
+    Se agregan css
